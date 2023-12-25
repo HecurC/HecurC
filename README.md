@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unitysourceman&show_icons=true&locale=en" alt="unitysourceman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unitysourceman&" alt="unitysourceman" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unitysourceman&theme=dark" alt="unitysourceman" /></p>
