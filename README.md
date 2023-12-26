@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **t.me/hecker86**
 
-- ⚡ Fun fact **I'm 13 years old (just kidding)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
