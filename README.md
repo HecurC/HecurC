@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cursed</h1>
-<h3 align="center">I am currently a junior frontend, full-stack and AI developer</h3>
+<h3 align="center">I am currently studying frontend, full-stack and AI development</h3>
 
 - 🔭 I’m currently working on [HRC](https://github.com/hecur-ru)
 
