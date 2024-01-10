@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are going to be available at [hecur.ru](hecur.ru)
 
-- 📫 How to reach me **t.me/hecker86**
+- 📫 How to reach me **t.me/cursed04**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/unitysourceman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="unitysourceman" height="30" width="40" /></a>
-<a href="https://discord.gg/cursed_babah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cursed_babah" height="30" width="40" /></a>
+<a href="https://discord.gg/cursedo4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cursed_babah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
