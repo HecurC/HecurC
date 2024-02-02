@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [HRC](https://github.com/hecur-ru)
 
-- 🌱 I’m currently learning **Deep analysis, Internet Relay Chat, cryptography**
+- 🌱 I’m currently learning **Deep analysis, Internet Relay Chat, Cryptography, Frontend-development, Design and Quantum physics**
 
-- 👨‍💻 All of my projects are going to be available at [hecur.ru](hecur.ru)
+- 👨‍💻 All of my projects are going to be available somewhere
 
 - 📫 How to reach me **t.me/cursed04**
 
