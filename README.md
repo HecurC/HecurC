@@ -14,8 +14,12 @@
   <a href="https://discordapp.com/users/771418928299507743" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=cursedo4&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=cursed&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=cursed04&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <a href="https://dev.to/unitysourceman" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=cursed&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+  </a>
+  <a href="https://t.me/cursed04" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=cursed04&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
