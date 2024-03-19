@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cursed</h1>
+<h1 align="center"> Hi 👋, I'm Cursed</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">🔭 I’m currently working on [HRC](https://github.com/hecur-ru) project <br><br>🌱 I’m currently into Deep analysis, Internet Relay Chat, Cryptography, Development, Design and Quantum physics<br><br>👨‍💻 All of my projects are going to be available here or at [my website](https://HecurС.github.io)</h3>
+### 🔭 I’m currently working on [HRC](https://github.com/hecur-ru) project <br><br>🌱 I’m currently into Deep analysis, Internet Relay Chat, Cryptography, Development, Design and Quantum physics<br><br>👨‍💻 All of my projects are going to be available here or at [my website](https://HecurС.github.io)
 
 ###
 
