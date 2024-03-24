@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Now I'm junior full-stack and AI developer</h2>
+<h2 align="center">I'm full-stack and AI developer</h2>
 
 ###
 
