@@ -1,8 +1,12 @@
-<h1 align="center"> Hi 👋, I'm Cursed</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=25&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Welcome+back." alt="Typing SVG" /></a>
+</div>
+
+<h1 align="center"> Hello there! 👋, I'm Cursed</h1>
 
 ###
 
-<h2 align="center">I'm full-stack and AI developer</h2>
+<h2 align="center">full-stack and AI developer</h2>
 
 ###
 
@@ -10,7 +14,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://discordapp.com/users/771418928299507743" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=cursedo4&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -64,23 +68,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
 
-###
+<br><br>
 
-<img align="right" height="200" src="https://cdn.discordapp.com/avatars/771418928299507743/348515ec5787450a48f6549ee6eb6c09.png?size=2048"  />
+<h2 align="center">Dad's joke</h2>
+<div align="center">
+ <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HecurC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<h2 align="center">Streak</h2>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+   <img src="https://streak-stats.demolab.com/?user=HecurC&theme=dark">
+  </a>
 </div>
 
 
-<br clear="both">
-
-<div align="left">
+<h2 align="center">Spotify</h2>
+<div align="center">
   <a href="https://open.spotify.com/user/314jyew4bzpzzgms5q3vfzouwxjm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=314jyew4bzpzzgms5q3vfzouwxjm&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
-###
+
