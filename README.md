@@ -6,7 +6,7 @@
 
 ###
 
-### 🔭 I’m currently working on [HRC](https://github.com/hecur-ru) project <br><br>🌱 I’m currently into Deep analysis, Internet Relay Chat, Cryptography, Development, Design and Quantum physics<br><br>👨‍💻 All of my projects are going to be available here or at [my website](https://HecurС.github.io)
+### 🔭 I’m currently working on [HRC](https://github.com/hecur-ru)<br><br>🌱 I’m currently into Deep analysis, Internet Relay Chat, Cryptography, Development, Design and Quantum physics<br><br>👨‍💻 All of my projects are going to be available here or at [my website](https://HecurС.github.io)
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HecurC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
