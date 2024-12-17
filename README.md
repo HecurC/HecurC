@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=25&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Welcome+back." alt="Typing SVG" /></a>
 </div>
 
-<h1 align="center"> Hello there! 👋, I'm Cursed</h1>
+<h1 align="center"> Hello there! 👋, I'm zapahs1reny</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-### 🔭 I’m currently working on [HRC](https://github.com/hecur-ru)<br><br>🌱 I’m currently into Deep analysis, Internet Relay Chat, Cryptography, Development, Design and Quantum physics<br><br>👨‍💻 All of my projects are going to be available here or at [my website](http://hecurc.github.io)
+### 🔭 I’m currently working on [Rorianomi-clicker](https://github.com/HecurC/rorinaomi_clicker)<br><br>🌱 I’m currently into Deep analysis, Internet Relay Chat, Cryptography, Development, Design and Quantum physics<br><br>👨‍💻 All of my projects are going to be available here or at [my website](http://hecurc.github.io)
 
 ###
 
