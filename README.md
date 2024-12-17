@@ -10,7 +10,7 @@
 
 ###
 
-### 🔭 I’m currently working on [Rorianomi-clicker](https://github.com/HecurC/rorinaomi_clicker)<br><br>🌱 I’m currently into Deep analysis, Internet Relay Chat, Cryptography, Development, Design and Quantum physics<br><br>👨‍💻 All of my projects are going to be available here or at [my website](http://hecurc.github.io)
+### 🔭 I’m currently working on [rorinaomi-clicker](https://github.com/HecurC/rorinaomi_clicker)<br><br>🌱 I’m currently into Deep analysis, Internet Relay Chat, Cryptography, Development, Design and Quantum physics<br><br>👨‍💻 All of my projects are going to be available here or at [my website](http://hecurc.github.io)
 
 ###
 
